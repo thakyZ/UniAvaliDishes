@@ -1,0 +1,8 @@
+{
+  "version" : "1.0.0",
+  "friendlyName" : "Universal Avali Dishes",
+  "name" : "uniavalidishes",
+  "includes" : ["Avali"],
+  "description" : "Allows you to craft all the Avali dishes at any cooking station",
+  "author" : "thakyZ"
+}
