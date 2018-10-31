@@ -1,4 +1,5 @@
 [
-  { "op": "add", "path": "/groups/-", value: "mains" },
-  { "op": "add", "path": "/groups/-", value: "craftingfood" }
+  [
+    { "op": "add", "path": "/groups/-", "value": "craftingfood" }
+  ]
 ]
