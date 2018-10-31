@@ -1,6 +1,6 @@
 Allows you to craft all the Avali dishes at any cooking station.
 
-[b]]Big Update![/b]
+[b]Big Update![/b]
 If you are using the latest version of this mod you'll notice, that you do not need to spawn in the recipes for the items.
 You should also see that the recipes [i](possibly)[/i] will show up again, they were broken because of an error I made when patching the files.
 Also you should notice that if you are using the vanilla cooking table that the food items from different Avali mods [i]should[/i] appear in the GUI now.
