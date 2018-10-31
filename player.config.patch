@@ -1,0 +1,9 @@
+[
+  [
+    { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item": "avaliflour" } },
+    { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item": "avalinoodle" } },
+    { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item": "avalitaco" } },
+    { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item": "avalinoodle2" } },
+    { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item": "avalimeat" } }
+  ]
+]
