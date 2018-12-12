@@ -1,5 +1,6 @@
 [
   [
+    { "op": "test", "path": "/interactData", "invert": true },
     { "op": "add", "path": "/interactData/filter/-", "value": "kitchen" }
   ]
 ]
