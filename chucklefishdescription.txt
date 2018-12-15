@@ -11,6 +11,7 @@ such as
 [CODE]/spawnitem avalitaco-recipe 1[/CODE]
 
 [B]Github:[/B] [URL]https://github.com/thakyZ/UniAvaliDishes[/URL]
+[B]Steam Workshop:[/B] [URL]https://steamcommunity.com/sharedfiles/filedetails/?id=873852764[/URL]
 
 Fully compatible with Frackin' Universe
 [IMG]https://i.imgur.com/1TfuM5F.png[/IMG]

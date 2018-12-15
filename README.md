@@ -14,6 +14,9 @@ such as
 ```
 /spawnitem avalitaco-recipe 1
 ```
-
+   
+**Chucklefish Forums:** https://community.playstarbound.com/resources/universal-avali-dishes.5560/   
+**Steam Workshop:** https://steamcommunity.com/sharedfiles/filedetails/?id=873852764
+   
 Fully compatible with Frackin' Universe   
 ![Won't Break Frackin Universe](https://i.imgur.com/1TfuM5F.png)

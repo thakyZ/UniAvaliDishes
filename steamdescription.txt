@@ -10,5 +10,8 @@ Also you should notice that if you are using the vanilla cooking table that the 
 such as
 [code]/spawnitem avalitaco-recipe 1[/code]
 
+[b]Github:[/b] [url]https://github.com/thakyZ/UniAvaliDishes[/url]
+[b]Chucklefish Forums:[/b] [url]https://community.playstarbound.com/resources/universal-avali-dishes.5560/[/url]
+
 Fully compatible with Frackin' Universe
 [img]https://i.imgur.com/1TfuM5F.png[/img]
