@@ -1,6 +1,6 @@
 # Universal Avali Dishes
 
-Allows you to craft all the Avali dishes at any cooking station.
+**Allows you to craft all the Avali dishes at any cooking station.**
 
 **12/15/2018 Big Update!**   
 If you are using the latest version of this mod you'll notice, that you do not need to spawn in the recipes for the items.   

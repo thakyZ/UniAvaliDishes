@@ -1,5 +1,3 @@
-Allows you to craft all the Avali dishes at any cooking station.
-
 [B]12/15/2018 Big Update![/B]
 If you are using the latest version of this mod you'll notice, that you do not need to spawn in the recipes for the items.
 You should also see that the recipes ([I]possibly[/I]) will show up again, they were broken because of an error I made when patching the files.
