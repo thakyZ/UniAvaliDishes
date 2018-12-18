@@ -1,0 +1,19 @@
+^#EA9931;Allows you to craft all the Avali dishes at any cooking station.^#FFFFFF;
+
+^#A451C4;12/15/2018^#FFFFFF; ^#EA9931;Big Update!^#FFFFFF;
+If you are using the latest version of this mod you'll notice, that you do not need to spawn in the recipes for the items.
+You should also see that the recipes (^#5588D4;*possibly*^#FFFFFF;) will show up again, they were broken because of an error I made when patching the files.
+Also you should notice that if you are using the vanilla cooking table that the food items from different Avali mods ^#5588D4;*should*^#FFFFFF; appear in the GUI now.
+
+^#A451C4;NOTE:^#FFFFFF; you'll have to spawn in the food items' recipes in order to craft all the foods because I haven't patched all the food files yet... this can be done by doing:
+
+    ^#545454;/spawnitem <item name>-recipe 1^#FFFFFF;
+such as
+    ^#545454;/spawnitem avalitaco-recipe 1^#FFFFFF;
+
+^#A451C4;Github:^#FFFFFF; ^#9BBA3D;https://github.com/thakyZ/UniAvaliDishes^#FFFFFF;
+^#A451C4;Chucklefish Forums:^#FFFFFF; ^#9BBA3D;https://community.playstarbound.com/resources/universal-avali-dishes.5560/^#FFFFFF;
+^#A451C4;Steam Workshop:^#FFFFFF; ^#9BBA3D;https://steamcommunity.com/sharedfiles/filedetails/?id=873852764^#FFFFFF;
+
+Fully compatible with Frackin' Universe
+^#9BBA3D;https://i.imgur.com/1TfuM5F.png^#FFFFFF;
